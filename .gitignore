@@ -1,3 +1,5 @@
 /.quarto/
 sem/
 _site/
+.venv
+poetry.lock
